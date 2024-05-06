@@ -1,0 +1,10 @@
+[package]
+name = "playground"
+version = "0.1.0"
+authors = ["Simon Bourne <simonbourne@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+silkenweb = "0.8"
+futures-signals = "0.3"
+futures = "0.3"
